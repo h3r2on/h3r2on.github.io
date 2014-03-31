@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>H3r2on</title>
+    <link href="http://h3r2on.com/"/>
+    <link rel="self" href="http://h3r2on.com/atom.xml"/>
+    <updated>2014-03-31T14:53:47-05:00</updated>
+    <id>http://h3r2on.com</id>
+    <author>
+        <name>Joel herron</name>
+        <email>joel@h3r2on.com</email>
+    </author>
+
+    
+    <entry>
+        <id>http://h3r2on.com//2013/08/09/prose-io</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2013/08/09/prose-io.html"/>
+        <title>Editing-Github Pages in style with Prose.io</title>
+        <updated>2013-08-09T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2013/05/17/rename-css-on-compile</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2013/05/17/rename-css-on-compile.html"/>
+        <title>Rename CSS on Compile</title>
+        <updated>2013-05-17T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2013/05/10/multiple-ssh-keys-a-solution</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2013/05/10/multiple-ssh-keys-a-solution.html"/>
+        <title>Multiple SSH keys a solution</title>
+        <updated>2013-05-10T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2013/05/07/multi-field-comparator-for-a-collection</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2013/05/07/multi-field-comparator-for-a-collection.html"/>
+        <title>Multi-field comparator for a collection</title>
+        <updated>2013-05-07T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2013/02/09/of-jekyll-and-hyde</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2013/02/09/of-jekyll-and-hyde.html"/>
+        <title>Of Jekyll and Hyde</title>
+        <updated>2013-02-09T00:00:00-06:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2013/02/01/full-sql-statements-with-ti-alloy-collections</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2013/02/01/full-sql-statements-with-ti-alloy-collections.html"/>
+        <title>Full SQL statements with Ti Alloy collections</title>
+        <updated>2013-02-01T00:00:00-06:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2013/01/16/image-exporter-for-sqlite</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2013/01/16/image-exporter-for-sqlite.html"/>
+        <title>Image exporter for sqlite</title>
+        <updated>2013-01-16T00:00:00-06:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2013/01/08/wp-magazine-plugin</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2013/01/08/wp-magazine-plugin.html"/>
+        <title>Wordpress Magazine plugin</title>
+        <updated>2013-01-08T00:00:00-06:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/09/10/bower-package-manager</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/09/10/bower-package-manager.html"/>
+        <title>Bower package manager</title>
+        <updated>2012-09-10T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/08/17/twitter-api-changes-the-impact</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/08/17/twitter-api-changes-the-impact.html"/>
+        <title>Twitter API changes: the impact</title>
+        <updated>2012-08-17T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/07/17/the-mac-is-dead-long-live-the-mac</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/07/17/the-mac-is-dead-long-live-the-mac.html"/>
+        <title>The Mac is dead! Long live the Mac!</title>
+        <updated>2012-07-17T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/07/17/mint-quickview</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/07/17/mint-quickview.html"/>
+        <title>Mint Quickview</title>
+        <updated>2012-07-17T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/04/21/changes</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/04/21/changes.html"/>
+        <title>Big Changes</title>
+        <updated>2012-04-21T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/04/13/a-nice-screen-layout-optimizer-mac</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/04/13/a-nice-screen-layout-optimizer-mac.html"/>
+        <title>A nice screen layout optimizer</title>
+        <updated>2012-04-13T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/04/12/initial-thoughts-on-windows-phone</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/04/12/initial-thoughts-on-windows-phone.html"/>
+        <title>Initial thoughts on windows phone</title>
+        <updated>2012-04-12T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/03/19/give-your-wp-widgets-context</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/03/19/give-your-wp-widgets-context.html"/>
+        <title>Give your WP widgets context</title>
+        <updated>2012-03-19T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/03/19/css-fluid-corners</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/03/19/css-fluid-corners.html"/>
+        <title>CSS fluid corners</title>
+        <updated>2012-03-19T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/03/18/24hrs-with-a-transformer-prime</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/03/18/24hrs-with-a-transformer-prime.html"/>
+        <title>24hrs with a Transformer Prime</title>
+        <updated>2012-03-18T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/03/15/why-im-skipping-the-ipad3</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/03/15/why-im-skipping-the-ipad3.html"/>
+        <title>Why I'm skipping the iPad gen 3</title>
+        <updated>2012-03-15T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/03/15/history-of-image-rep</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/03/15/history-of-image-rep.html"/>
+        <title>History of image replacement techniques</title>
+        <updated>2012-03-15T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/03/03/bootstrap-and-h5bp</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/03/03/bootstrap-and-h5bp.html"/>
+        <title>Bootstrap &amp; HTML5 Boilerplate</title>
+        <updated>2012-03-03T00:00:00-06:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/03/03/OMG-Im-never-moving-to-toronto</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/03/03/OMG-Im-never-moving-to-toronto.html"/>
+        <title>OMG I'm never moving to Toronto</title>
+        <updated>2012-03-03T00:00:00-06:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/02/28/beautifying-js</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/02/28/beautifying-js.html"/>
+        <title>Beautifying JS</title>
+        <updated>2012-02-28T00:00:00-06:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2012/01/24/your-kidding-me-right-zip-is-a-reserved-form-field-name</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2012/01/24/your-kidding-me-right-zip-is-a-reserved-form-field-name.html"/>
+        <title>Your kidding me right... zip is a reserved form field name</title>
+        <updated>2012-01-24T00:00:00-06:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2011/12/09/educore-building-mobile-apps-for-education</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2011/12/09/educore-building-mobile-apps-for-education.html"/>
+        <title>EduCore: Building Mobile apps for Education</title>
+        <updated>2011-12-09T00:00:00-06:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2011/05/04/is-there-value-in-namespacing-your-javascript</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2011/05/04/is-there-value-in-namespacing-your-javascript.html"/>
+        <title>Is there value in namespacing your javascript?</title>
+        <updated>2011-05-04T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2011/04/19/code-igniter-and-get-vars</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2011/04/19/code-igniter-and-get-vars.html"/>
+        <title>Code Igniter and GET vars</title>
+        <updated>2011-04-19T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2011/04/01/titanium-mobile-analytics-cautionary-tale</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2011/04/01/titanium-mobile-analytics-cautionary-tale.html"/>
+        <title>Titanium Mobile Analytics...a cautionary tale</title>
+        <updated>2011-04-01T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2011/03/21/managing-densities-in-titanium-mobile</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2011/03/21/managing-densities-in-titanium-mobile.html"/>
+        <title>Managing densities in Titanium Mobile</title>
+        <updated>2011-03-21T00:00:00-05:00</updated>
+        
+    </entry>
+    
+    <entry>
+        <id>http://h3r2on.com//2011/02/20/iphone-navigation-group-using-titanium-mobile</id>
+        <link type="text/html" rel="alternate" href="http://h3r2on.com//2011/02/20/iphone-navigation-group-using-titanium-mobile.html"/>
+        <title>iPhone Navigation Group using Titanium Mobile</title>
+        <updated>2011-02-20T00:00:00-06:00</updated>
+        
+    </entry>
+    
+</feed>
